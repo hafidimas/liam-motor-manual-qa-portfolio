@@ -4,11 +4,7 @@
 
 Welcome to my Manual Software Quality Assurance (QA) portfolio.
 
-This repository showcases my practical knowledge of manual software testing through **Liam Motor**, a web-based workshop inventory management application.
-
-The project focuses on evaluating application functionality, validating user inputs, verifying data consistency, and identifying potential defects through structured manual testing.
-
-Through this project, I aim to demonstrate my ability to analyze application workflows, design effective test cases, execute test scenarios, document test results, and report defects clearly and systematically.
+This repository showcases my practical knowledge of manual software testing through **Liam Motor**, a web-based workshop inventory management application. The project focuses on evaluating application functionality, validating user inputs, verifying data consistency, and identifying potential defects through structured manual testing. Through this project, I aim to demonstrate my ability to analyze application workflows, design effective test cases, execute test scenarios, document test results, and report defects clearly and systematically.
 
 ## Project Overview
 

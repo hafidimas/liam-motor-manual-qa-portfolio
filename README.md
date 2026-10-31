@@ -186,6 +186,6 @@ This portfolio does not claim that Liam Motor has undergone a complete security 
 
 ---
 
-**Author:** [Your Name]  
+**Author:** Mohamad Hafi Dimas Rifqi Prasetyo  
 **Role:** Aspiring Manual Software QA Engineer  
-**GitHub:** [Your GitHub Profile URL]
+**GitHub:** https://github.com/hafidimas/
